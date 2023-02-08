@@ -73,7 +73,7 @@ setup(
         ],
         "test": [
             "pytest>=5.2.2,<7.2.0",
-            "pytest-xdist>=2.2.1,<2.6",
+            "pytest-xdist>=2.2.1,<3.3",
             "pytest-asyncio>=0.17,<0.20",
             "beautifulsoup4>=4.8.1,<4.12.0",
             "black==22.6.0",
